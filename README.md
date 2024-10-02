@@ -5,3 +5,4 @@
 - 💬 Ask me about AWS, python and Power BI
 - ⚡ Fun fact: Love coffee and play Switch with friends
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiquelcn)](https://github.com/anuraghazra/github-readme-stats)

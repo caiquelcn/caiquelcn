@@ -7,3 +7,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiquelcn&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquelcn&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          

@@ -1,9 +1,9 @@
 ## Hi there, I'm Caique Lucena 👋
 
 - 🔭 I’m currently working on PagBank as a Sr Data Analyst
-- 🌱 I’m currently going deep in Clouds architectures, Python for data analysis and machine learning
-- 💬 Ask me about AWS, python and Power BI
-- ⚡ Fun fact: Love coffee and play Switch with friends
+- 🌱 I’m currently going deep in clouds architectures, Python for data analysis and machine learning
+- 💬 Ask me about AWS, Python and Power BI
+- ⚡ Fun fact: I love coffee and play Switch with friends
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiquelcn&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquelcn&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
